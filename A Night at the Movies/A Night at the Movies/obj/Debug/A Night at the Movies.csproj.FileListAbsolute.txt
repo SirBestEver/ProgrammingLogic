@@ -1,0 +1,6 @@
+C:\Users\Max\Desktop\A Night at the Movies\A Night at the Movies\bin\Debug\A Night at the Movies.exe.config
+C:\Users\Max\Desktop\A Night at the Movies\A Night at the Movies\bin\Debug\A Night at the Movies.exe
+C:\Users\Max\Desktop\A Night at the Movies\A Night at the Movies\bin\Debug\A Night at the Movies.pdb
+C:\Users\Max\Desktop\A Night at the Movies\A Night at the Movies\obj\Debug\A Night at the Movies.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\A Night at the Movies\A Night at the Movies\obj\Debug\A Night at the Movies.exe
+C:\Users\Max\Desktop\A Night at the Movies\A Night at the Movies\obj\Debug\A Night at the Movies.pdb

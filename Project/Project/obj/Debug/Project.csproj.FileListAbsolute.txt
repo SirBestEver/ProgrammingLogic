@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Max\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Max\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Max\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Max\Desktop\Project\Project\obj\Debug\Project.pdb
+E:\Project\Project\bin\Debug\Project.exe.config
+E:\Project\Project\obj\Debug\Project.exe
+E:\Project\Project\obj\Debug\Project.pdb
+E:\Project\Project\bin\Debug\Project.exe
+E:\Project\Project\bin\Debug\Project.pdb
+E:\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Project\Project\bin\Debug\Project.exe.config
+D:\Project\Project\obj\Debug\Project.exe
+D:\Project\Project\obj\Debug\Project.pdb
